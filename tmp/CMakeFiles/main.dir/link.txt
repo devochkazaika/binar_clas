@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/main.dir/src/main.cpp.o -o main  -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio 

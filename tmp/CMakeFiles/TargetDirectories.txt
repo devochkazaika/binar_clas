@@ -1,0 +1,5 @@
+/home/ilya/Рабочий стол/проекты/reg/tmp/CMakeFiles/main.dir
+/home/ilya/Рабочий стол/проекты/reg/tmp/CMakeFiles/edit_cache.dir
+/home/ilya/Рабочий стол/проекты/reg/tmp/CMakeFiles/rebuild_cache.dir
+/home/ilya/Рабочий стол/проекты/reg/tmp/src/CMakeFiles/edit_cache.dir
+/home/ilya/Рабочий стол/проекты/reg/tmp/src/CMakeFiles/rebuild_cache.dir
