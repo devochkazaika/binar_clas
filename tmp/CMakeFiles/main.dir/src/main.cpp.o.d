@@ -266,4 +266,5 @@ CMakeFiles/main.dir/src/main.cpp.o: \
  /home/ilya/Рабочий\ стол/проекты/reg/src/Circle.h \
  /home/ilya/Рабочий\ стол/проекты/reg/src/Back.h \
  /usr/include/c++/11/iostream /usr/include/c++/11/istream \
- /usr/include/c++/11/bits/istream.tcc
+ /usr/include/c++/11/bits/istream.tcc \
+ /home/ilya/Рабочий\ стол/проекты/reg/src/Train.h

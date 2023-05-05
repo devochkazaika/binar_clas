@@ -329,7 +329,8 @@ CMakeFiles/main.dir/src/main.cpp.o: ../src/main.cpp \
   ../src/Back.h \
   /usr/include/c++/11/iostream \
   /usr/include/c++/11/istream \
-  /usr/include/c++/11/bits/istream.tcc
+  /usr/include/c++/11/bits/istream.tcc \
+  ../src/Train.h
 
 
 /usr/include/c++/11/bits/istream.tcc:
@@ -357,6 +358,8 @@ CMakeFiles/main.dir/src/main.cpp.o: ../src/main.cpp \
 /usr/include/c++/11/bits/specfun.h:
 
 /usr/include/x86_64-linux-gnu/bits/iscanonical.h:
+
+../src/Train.h:
 
 /usr/include/x86_64-linux-gnu/bits/mathcalls.h:
 
